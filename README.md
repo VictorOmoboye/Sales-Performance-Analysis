@@ -19,3 +19,6 @@ This project focuses on analyzing sales performance across various product categ
 - Data import into Tableau
 - Create calculated fields and bulid visualizations
 - Design the dashboard layout
+
+# MODELLING
+The data model consists of a main table, Orders, which includes fields such as Row ID, Order ID, Ship Date, Ship Mode, Customer ID, Segment, Postal Code, Product ID, Sales, Quantity, Discount, and Profit. Additionally, there are sub-tables for Customers, linking customer names and IDs; Location, adding details like postal code, city, state, region, and country; and Products, containing product ID, category, subcategory, and product name. By integrating these tables, we can conduct comprehensive analyses to better understand sales performance at both the product and customer levels.
