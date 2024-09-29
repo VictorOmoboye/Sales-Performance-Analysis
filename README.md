@@ -12,3 +12,10 @@ This project focuses on analyzing sales performance across various product categ
 - Improve profitability and sales growth by understanding key performance metrics across product subcategories.
 - Visualize sales metrics and trends using Tableau to present actionable insights to decision makers.
 - Use insights to make recommendations for enhancing business profitability.
+
+# SKILL & CONCEPT DEMOSTRATED
+- Business Understanding
+- Data Understanding & Preparation
+- Data import into Tableau
+- Create calculated fields and bulid visualizations
+- Design the dashboard layout
