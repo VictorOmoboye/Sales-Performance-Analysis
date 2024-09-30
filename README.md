@@ -37,3 +37,6 @@ This visualization presents key performance indicators (KPIs) for Total Sales, T
 This bar chart compares sales and profits by category at Ken's Supplies to the previous year (PY), highlighting variations in subcategory performance. It reveals that while some subcategories saw improvements in both sales and profits, others experienced significant declines. The green bars represent profit, while the red bars indicate losses. Notably, tables showed the largest loss at -$8K compared to the previous year, followed by machines, bookcases, and supplies, indicating areas of concern for further analysis and potential strategic adjustments.
 ![image](https://github.com/user-attachments/assets/2e2f2503-1f31-44d3-9138-6cddd41dc84d)
 
+## Line Chart
+![Sales   Profits Weekly Trend](https://github.com/user-attachments/assets/9efa96f0-edd1-4784-8564-94028f3431c5)
+
