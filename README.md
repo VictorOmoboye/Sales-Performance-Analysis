@@ -62,4 +62,8 @@ Here are some recommendations to help stakeholders at **Ken's Supplies** improve
 
 These recommendations aim to enhance sales performance by focusing on product optimization, pricing, and customer engagement strategies for the upcoming year.
 
+# THANK YOU
+For more information, you can contact me
+![WhatsApp Image 2024-09-25 at 6 02 53 PM](https://github.com/user-attachments/assets/51740aa3-65b4-4784-abd1-fdb3cf0a78cb)
+
 
