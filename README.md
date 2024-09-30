@@ -39,7 +39,7 @@ This bar chart compares sales and profits by category at Ken's Supplies to the p
 
 ## Line Chart
 This trend chart visualizes the weekly sales and profit trends for the current year (CY), along with the respective average sales and profit values. It highlights periods where current sales and profits exceed or fall below their respective averages. The green line indicates weeks where sales and profits are above the average, while the red line represents weeks where they fall below. This visualization provides a clear comparison of performance against the average, offering insights into fluctuations and helping identify periods of higher or lower profitability.
-![Sales   Profits Weekly Trend](https://github.com/user-attachments/assets/9efa96f0-edd1-4784-8564-94028f3431c5)
+![image](https://github.com/user-attachments/assets/51848cb9-070b-472c-a275-2c7eb420a92c)
 
 # DASHBOARD REVIEW
 The dashboard provides a comprehensive analysis of sales performance over a four-year period, from 2020 to 2023. It incorporates interactive parameters that allow users to filter and view performance data for a specific year, enabling focused analysis and comparison of sales trends across different time frames.
