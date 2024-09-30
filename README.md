@@ -44,7 +44,7 @@ This trend chart visualizes the weekly sales and profit trends for the current y
 # DASHBOARD REVIEW
 The dashboard provides a comprehensive analysis of sales performance over a four-year period, from 2020 to 2023. It incorporates interactive parameters that allow users to filter and view performance data for a specific year, enabling focused analysis and comparison of sales trends across different time frames.
 
-**View Live on Tableau public:** https://public.tableau.com/app/profile/victor.omoboye6866/viz/KensSalesdashboard_17277049778080/Dashboard1?publish=yes
+**View previous year(PY) sales using the interactive parameters:** https://public.tableau.com/app/profile/victor.omoboye6866/viz/KensSalesdashboard_17277049778080/Dashboard1?publish=yes
 ## 2023
 ![Ken's Supplies Dashboard](https://github.com/user-attachments/assets/7963453b-4a1a-4db3-9fda-3a0298b9dab8)
 
