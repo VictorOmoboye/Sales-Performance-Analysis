@@ -42,5 +42,18 @@ This trend chart visualizes the weekly sales and profit trends for the current y
 ![Sales   Profits Weekly Trend](https://github.com/user-attachments/assets/9efa96f0-edd1-4784-8564-94028f3431c5)
 
 # DASHBOARD REVIEW
+## 2023
 ![Ken's Supplies Dashboard](https://github.com/user-attachments/assets/7963453b-4a1a-4db3-9fda-3a0298b9dab8)
+
+## 2022
+![ken's Sales 2022 Dashboard](https://github.com/user-attachments/assets/6c616905-1ddb-4620-a4ce-912970832797)
+
+## 2021
+![ken's Sales 2021 Dashboard](https://github.com/user-attachments/assets/240d783a-0bea-4c7d-9606-a1c5fb03e189)
+
+## 2020
+![ken's Sales 2020 Dashboard](https://github.com/user-attachments/assets/016d5147-6e1c-432f-a7ee-68d41dd82efc)
+
+
+
 
