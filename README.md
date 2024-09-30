@@ -30,3 +30,6 @@ I conducted comprehensive data cleaning by using filter functions to eliminate n
 - Line Chart
 # DATA ANALYSIS
 ## KPIs
+This visualization presents key performance indicators (KPIs) for Total Sales, Total Profit, and Total Quantity at **Ken's Supplies**, along with a comparison of their monthly sales trends to the previous year (PY). In 2023, Total Sales reached $733K, reflecting a 20.4% increase over the previous year. Total Profit for 2023 was $93K, a 14.2% improvement compared to the prior year, while the total quantity sold was 12K, marking a 26.8% growth year-over-year. These KPIs highlight strong overall business performance and growth in 2023.
+![image](https://github.com/user-attachments/assets/dc71786b-5650-4eb9-ae46-919646d9e0ce)
+
