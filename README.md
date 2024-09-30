@@ -28,3 +28,5 @@ I conducted comprehensive data cleaning by using filter functions to eliminate n
 - KPIs
 - Bar Chart
 - Line Chart
+# DATA ANALYSIS
+## KPIs
