@@ -49,7 +49,17 @@ The dashboard provides a comprehensive analysis of sales performance over a four
 ![Ken's Supplies Dashboard](https://github.com/user-attachments/assets/7963453b-4a1a-4db3-9fda-3a0298b9dab8)
 
 # RECOMMENDATION
+Here are some recommendations to help stakeholders at **Ken's Supplies** improve sales performance in the coming year based on the insights drawn from the dataset
 
+- Focus on underperforming categories by address the subcategories like tables, machines, and bookcases that showed significant losses by investigating potential causes such as pricing, product quality, or demand fluctuations, and take corrective action to enhance profitability.
+- Leverage High-Performing Subcategories by capitalize on subcategories that showed growth in sales and profit by increasing inventory, offering promotions, or expanding marketing efforts to drive further growth in these areas.
+- Optimize pricing strategy by review pricing strategies for both high-performing and underperforming products, using the insights from weekly sales trends and average performance to set competitive prices that maximize profit without sacrificing volume.
+- Use sales trend data to optimize inventory levels, ensuring high-demand products are well-stocked, while reducing inventory for underperforming items to avoid excess stock.
+- Implement targeted marketing campaigns based on the product subcategories that have seen consistent growth or demand throughout the year, focusing on the segments most responsive to specific product offerings.
+- Offer product bundles combining high-margin and low-performing products to encourage customers to purchase more, thus improving sales performance across a broader range of products.
+- Utilize customer segmentation insights to tailor offers and promotions, targeting specific segments with the right product mix and personalized pricing or discount offers to boost sales.
+- Leverage cross-selling and upselling strategies by promoting complementary products in high-demand categories, increasing the overall transaction value per customer.
 
+These recommendations aim to enhance sales performance by focusing on product optimization, pricing, and customer engagement strategies for the upcoming year.
 
 
