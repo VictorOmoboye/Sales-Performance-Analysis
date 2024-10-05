@@ -26,6 +26,7 @@ I conducted comprehensive data cleaning by using filter functions to eliminate n
 
 ## VISUALIZATION
 - KPIs
+  
 - Bar Chart
 - Line Chart
 ## DATA ANALYSIS
