@@ -4,6 +4,8 @@
 
 ## INTRODUCTION
 This project focuses on analyzing sales performance across various product categories at **Ken’s Supplies** using advanced analytics tools in Tableau. By exploring key metrics such as sales trends, revenue, and market opportunities, the analysis aims to provide valuable insights into product performance and business growth. Leveraging Tableau’s powerful visualization and analytical capabilities, the project will uncover actionable data-driven strategies to optimize inventory, improve profitability, and enhance decision-making in a competitive market environment.
+![image](https://github.com/user-attachments/assets/181d63d3-a6ab-49c5-a398-243345e07a6b)
+
 ## PROBLEM STATEMENT
 **Ken’s Supplies** seeks to deepen its understanding of sales performance across various product subcategories by analyzing key metrics such as sales revenue, profit, and quantity sold. The primary challenge is identifying year-over-year trends and evaluating the contribution of each subcategory to overall business performance. A lack of clear insight into these trends hinders effective decision-making related to inventory management, pricing strategies, and product investment. By thoroughly analyzing these metrics, Ken’s Supplies can uncover growth opportunities, address underperforming areas, and gain the insights necessary to optimize inventory, refine pricing strategies, and guide future investments in key product categories.
 ## AIM OF THE PROJECT
