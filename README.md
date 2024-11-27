@@ -65,6 +65,6 @@ These recommendations aim to enhance sales performance by focusing on product op
 
 ## THANK YOU
 For more information, you can contact me
-![WhatsApp Image 2024-09-25 at 6 02 53 PM](https://github.com/user-attachments/assets/51740aa3-65b4-4784-abd1-fdb3cf0a78cb)
+![image](https://github.com/user-attachments/assets/400a6867-54ca-409f-b788-6d12b14d0833)
 
 
