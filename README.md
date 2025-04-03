@@ -2,6 +2,7 @@
 ## Leveraging Tableau's Advanced Analytics for Sales Performance and Market Trend Analysis at Ken’s Supplies
 ![image](https://github.com/user-attachments/assets/f15eda55-9fc7-4680-82bf-618dea318c7b)
 
+***Disclaimer⚠️:** All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and design to demonstrate my capabilities of using Tableau to build advance analytics dashboard*
 ## INTRODUCTION
 This project focuses on analyzing sales performance across various product categories at **Ken’s Supplies** (the leading provider of office supplies, furniture, and technology products) using advanced analytics tools in Tableau. By exploring key metrics such as sales trends, revenue, and market opportunities, the analysis aims to provide valuable insights into product performance and business growth. Leveraging Tableau’s powerful visualization and analytical capabilities, the project will uncover actionable data-driven strategies to optimize inventory, improve profitability, and enhance decision-making in a competitive market environment.
 ![image](https://github.com/user-attachments/assets/89e09fc1-89a3-43c6-8a6a-304e2dde3e64)
